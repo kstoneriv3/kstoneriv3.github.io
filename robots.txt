@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kstoneriv3.github.io/al-folio/sitemap.xml
+Sitemap: https://kstoneriv3.github.io/sitemap.xml
