@@ -16,10 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a machine learning engineer at G-Research in London. 
+Hi, I am a machine learning engineer at G-Research in London. Previously, I obtained MSc in Statistics at ETH Zurich and BEng in Systems Innovation at the University of Tokyo.
 
+My passion lies in the field of machine learning, and I particularly enjoy improving machine learning algorithms by leveraging the underlying mathematical structures of the problems. Especially, keywords that often get me excited include probabilistic modeling, decision making, reinforcement learning, meta-learning, sample efficiency, and uncertainty quantification.
 
-I enjoy solving challenging problems with mathematical and computational approaches.
-
-
-
+When I'm not tinkering with algorithms, you may find me outside, running or playing tennis. From time to time, I also revisit hobbies from my past, such as cycling, hiking, swimming, and bouldering.
