@@ -1,84 +1,30 @@
----
----
+@inproceedings{ishikawa2021efficient,
+title = {EfficientdebiasedevidenceestimationbymultilevelMonteCarlosampling},
+author = {Ishikawa,KeiandGoda,Takashi},
+booktitle = {UncertaintyinArtificialIntelligence},
+pages = {34--43},
+year = {2021},
+organization = {PMLR},
+  abstract = {In this paper, we propose a new stochastic optimization algorithm for Bayesian inference based on multilevel Monte Carlo (MLMC) methods. In Bayesian statistics, biased estimators of the model evidence have been often used as stochastic objectives because the existing debiasing techniques are computationally costly to apply. To overcome this issue, we apply an MLMC sampling technique to construct low-variance unbiased estimators both for the model evidence and its gradient. In the theoretical analysis, we show that the computational cost required for our proposed MLMC estimator to estimate the model evidence or its gradient with a given accuracy is an order of magnitude smaller than those of the previously known estimators. Our numerical experiments confirm considerable computational savings compared to the conventional estimators. Combining our MLMC estimator with gradient-based stochastic optimization results in a new scalable, efficient, debiased inference algorithm for Bayesian statistical models.}
+  archiveprefix = {arXiv},
+  primaryclass = {stat.ML},
+  arxiv = {2001.04676},
+  bibtex_show = {true},
+  selected = {true},
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@inproceedings{ishikawa2023kernel,
+  title = {Kernel Conditional Moment Constraints for Confounding Robust Inference},
+  author = {Ishikawa, Kei and He, Niao},
+  booktitle = {International Conference on Artificial Intelligence and Statistics},
+  pages = {650--674},
+  year = {2023},
+  organization = {PMLR},
+  abstract = {We study policy evaluation of offline contextual bandits subject to unobserved confounders. Sensitivity analysis methods are commonly used to estimate the policy value under the worst-case confounding over a given uncertainty set. However, existing work often resorts to some coarse relaxation of the uncertainty set for the sake of tractability, leading to overly conservative estimation of the policy value. In this paper, we propose a general estimator that provides a sharp lower bound of the policy value. It can be shown that our estimator contains the recently proposed sharp estimator by Dorn and Guo (2022) as a special case, and our method enables a novel extension of the classical marginal sensitivity model using f-divergence. To construct our estimator, we leverage the kernel method to obtain a tractable approximation to the conditional moment constraints, which traditional non-sharp estimators failed to take into account. In the theoretical analysis, we provide a condition for the choice of the kernel which guarantees no specification error that biases the lower bound estimation. Furthermore, we provide consistency guarantees of policy evaluation and learning. In the experiments with synthetic and real-world data, we demonstrate the effectiveness of the proposed method.},
+  archiveprefix = {arXiv},
+  primaryclass = {stat.ML},
+  arxiv = {2302.13348},
+  bibtex_show = {true},
+  selected = {true},
 }
