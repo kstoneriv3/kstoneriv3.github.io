@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I enjoy solving challenging problems with mathematical and computational approaches.
+subtitle: A ML engineer who enjoys solving challenging problems with mathematical and computational approaches.
 
 profile:
   align: right
