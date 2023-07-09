@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I enjoy solving challenging problems with mathematical and computational approaches.
 
 profile:
   align: right
