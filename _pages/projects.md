@@ -39,9 +39,9 @@ Mini research projects that did not end up publication so far.
 Slide decks I presented in reading clubs in the past.
 
 - Kernel Instrumental Variable Regression
-- A study of oversmoothing in GNNs on May 2021 ([Slides](assets/pdf/GNN_Oversmoothing-20210504.pdf))
+- A study of oversmoothing in GNNs on May 2021 ([Slides](../assets/pdf/GNN_Oversmoothing-20210504.pdf))
 - Reinforcement Learning via Fenchel-Rockafellar Duality
-- Temporal Parallelization of Bayesian Smoothers on August 2023 ([Slides](assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
+- Temporal Parallelization of Bayesian Smoothers on August 2023 ([Slides](../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
 
 
 <!--
@@ -92,4 +92,4 @@ Slide decks I presented in reading clubs in the past.
   {%- endif -%}
 {%- endif -%}
 </div>
--->
+ -->
