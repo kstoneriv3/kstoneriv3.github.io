@@ -92,4 +92,3 @@ Slide decks I presented in reading clubs in the past.
   {%- endif -%}
 {%- endif -%}
 </div>
-# -->
