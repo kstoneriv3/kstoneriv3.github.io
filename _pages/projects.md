@@ -44,7 +44,7 @@ Slide decks I presented in reading clubs in the past.
 - Temporal Parallelization of Bayesian Smoothers on August 2023 ([Slides](../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
 
 
-<!--
+<!---
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -91,5 +91,5 @@ Slide decks I presented in reading clubs in the past.
   </div>
   {%- endif -%}
 {%- endif -%}
-</div>
- -->
+</div>-->
+-->
