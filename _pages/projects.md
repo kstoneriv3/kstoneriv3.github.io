@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A random collection of projects, softwares, ... etc. that I think is worth showcasing.
 nav: true
 nav_order: 2
 display_categories: []
@@ -10,13 +10,39 @@ horizontal: false
 ---
 <!-- display_categories: [work, fun] -->
 
-## This is subsection
+This page is under construction...
 
-This is a text.
+## Mini-research projects
 
-### This is subsubsection
+Mini research projects that did not end up publication so far.
 
-This is also a text.
+- Fake voice detection
+- Low-rank GP on discrete domain
+- MLQMC for neural SDEs
+- An SDE analysis of the sharpness-aware minimization
+
+
+## Softwares
+
+- confounding-robust-inference
+- pca-impute
+- imputax
+
+- PRs to OSS
+  - scikit-learn
+  - optuna
+  - scipy
+
+
+## Reading club
+
+Slide decks I presented in reading clubs in the past.
+
+- Kernel Instrumental Variable Regression
+- A study of oversmoothing in GNNs on May 2021 ([Slides](assets/pdf/GNN_Oversmoothing-20210504.pdf))
+- Reinforcement Learning via Fenchel-Rockafellar Duality
+- Temporal Parallelization of Bayesian Smoothers on August 2023 ([Slides](assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
+
 
 <!--
 <!-- pages/projects.md -->
