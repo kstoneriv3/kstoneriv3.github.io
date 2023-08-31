@@ -52,22 +52,29 @@ Slide decks I presented in previous reading clubs.
 
 I provide mentorship and advice to aspiring Japanese students interested in STEM education and careers abroad sometimes (though not very frequently).
 
-<details>
-  <summary>
-    "Tips for studying and working abroad for Japanese students" (<a href="https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja">posts on github</a>)
-  </summary>
-  <p style="margin-left: 5%;"> 
-  I wrote a series of "things I wish I knew when I was 18" type of posts. There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field. This underrepresentation is partly due to a scarcity of information available in Japanese, so posts like these could be helpful. Indeed, they turned out to be quite popular and got close to 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
-  </p>
-</details>
+<div style="margin-left: 2%;"> 
+  
+  <details>
+    <summary>
+      "Tips for studying and working abroad for Japanese students" (<a href="https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja">posts on github</a>)
+    </summary>
+    <p style="margin-left: 3%;"> 
+      I wrote a series of "things I wish I knew when I was 18" type of posts. There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field. 
+      This underrepresentation is partly due to a scarcity of information available in Japanese, so posts like these could be helpful. 
+      Indeed, they turned out to be quite popular and got close to 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      Mentorship in application document writing
+    </summary>
+    <p style="margin-left: 3%;">
+      Occasionally I support aspiring Japanese students writing application documents such as motivation letters for grad school or scholarship.
+    </p>
+  </details>
 
-<details>
-  <summary>
-    Mentorship in application document writing
-  </summary>
-  Occasionally I support aspiring Jananese students in writing application documents such as motivation letters for grad school or scholarship.</li>
-</details>
-
+</div>
 
 
 <!---
