@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A random collection of projects, softwares, ... etc. that I think is worth showcasing.
+description: A collection of projects, software, etc. that I think is worth showcasing.
 nav: true
 nav_order: 2
 display_categories: []
@@ -40,7 +40,7 @@ Mini research projects that did not end up publication so far.
 
 ## Reading club
 
-Slide decks I presented in reading clubs in the past.
+Slide decks I presented in previous reading clubs.
 
 - Temporal Parallelization of Bayesian Smoothers, August 2023 ([Slides](../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
 - Reinforcement Learning via Fenchel-Rockafellar Duality, January 2023 ([Slides](../assets/pdf/RL_via_FR_duality-20230126.pdf))
@@ -48,9 +48,16 @@ Slide decks I presented in reading clubs in the past.
 - Kernel Instrumental Variable Regression, May 2020 ([Slides](../assets/pdf/kernel_instrumental_variable_regression-20200515.pdf))
 
 
-## Notes
+## Mentoring and advising
 
-- https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja
+- "Tips for studying and working abroad for Japanese students" ([posts on github](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja))
+  - Wrote "things I wish I knew when I was 18" type of posts aimed at Japanese students interested in STEM education and careers abroad
+  - Background:
+    - There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field.
+    - This underrepresentation is partly due to a scarcity of information and role models, so posts like these could be helpful.
+  - Indeed, they turned out to be quite popular and got close to 100 stars on github (but much more popular than any of my software 🥲).
+- Mentorship in application document writing
+  - Occasionally I support aspiring Jananese students in writing application documents such as motivation letters for grad school or scholarship.
 
 <!---
 <!-- pages/projects.md -->
