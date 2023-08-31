@@ -9,16 +9,23 @@
 - title: Education
   type: time_table
   contents:
+  
+    - title: MSc Mathematical and Computing Science
+      institution: Tokyo Institite of Technology
+      year: 2020 - 2024 (expected)
+      description:
+        - Having fun doing research and learning new things
     - title: MSc Statistics
       institution: ETH Zurich
-      year: 2022
+      year: 2020 - 2022
       description:
-        - ML and statistics
+        - Focused on ML and statistics
     - title: BEng Systems Innovation
       institution: University of Tokyo
-      year: 2020
+      year: 2015 - 2020
       description:
-        - Applied math, CS, and Economics
+        - Focuses on applied math, CS, and economics
+        - Spent an extra year due to two semesters of exchange study at ETH Zurich
 
 - title: Experience
   type: time_table
