@@ -44,20 +44,37 @@ Slide decks I presented in previous reading clubs.
 
 - Temporal Parallelization of Bayesian Smoothers, August 2023 ([Slides](../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
 - Reinforcement Learning via Fenchel-Rockafellar Duality, January 2023 ([Slides](../assets/pdf/RL_via_FR_duality-20230126.pdf))
-- A study of oversmoothing in GNNs, May 2021 ([Slides](../assets/pdf/GNN_Oversmoothing-20210504.pdf))
+- A brief review on over-smoothing in GNNs, May 2021 ([Slides](../assets/pdf/GNN_Oversmoothing-20210504.pdf))
 - Kernel Instrumental Variable Regression, May 2020 ([Slides](../assets/pdf/kernel_instrumental_variable_regression-20200515.pdf))
 
 
 ## Mentoring and advising
 
-- "Tips for studying and working abroad for Japanese students" ([posts on github](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja))
-  - Wrote "things I wish I knew when I was 18" type of posts aimed at Japanese students interested in STEM education and careers abroad
+I provide mentorship and advice to aspiring Japanese students interested in STEM education and careers abroad sometimes (though not frequently).
+
+<details>
+  <summary>
+    "Tips for studying and working abroad for Japanese students" (<a href="https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja">posts on github</a>)
+  </summary>
+  
+  - I wrote a series of "things I wish I knew when I was 18" type of posts
   - Background:
     - There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field.
-    - This underrepresentation is partly due to a scarcity of information and role models, so posts like these could be helpful.
+    - This under-representation is partly due to a scarcity of information, so posts like these could be helpful.
   - Indeed, they turned out to be quite popular and got close to 100 stars on github (but much more popular than any of my software 🥲).
-- Mentorship in application document writing
+
+</details>
+
+<details>
+  <summary>
+    Mentorship in application document writing
+  </summary>
+  
   - Occasionally I support aspiring Jananese students in writing application documents such as motivation letters for grad school or scholarship.
+
+</details>
+
+
 
 <!---
 <!-- pages/projects.md -->
