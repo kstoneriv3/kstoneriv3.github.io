@@ -50,28 +50,22 @@ Slide decks I presented in previous reading clubs.
 
 ## Mentoring and advising
 
-I provide mentorship and advice to aspiring Japanese students interested in STEM education and careers abroad sometimes (though not frequently).
+I provide mentorship and advice to aspiring Japanese students interested in STEM education and careers abroad sometimes (though not very frequently).
 
 <details>
   <summary>
     "Tips for studying and working abroad for Japanese students" (<a href="https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja">posts on github</a>)
   </summary>
-  
-  - I wrote a series of "things I wish I knew when I was 18" type of posts
-  - Background:
-    - There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field.
-    - This under-representation is partly due to a scarcity of information, so posts like these could be helpful.
-  - Indeed, they turned out to be quite popular and got close to 100 stars on github (but much more popular than any of my software 🥲).
-
+  <p style="margin-left: 5%;"> 
+  I wrote a series of "things I wish I knew when I was 18" type of posts. There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field. This underrepresentation is partly due to a scarcity of information available in Japanese, so posts like these could be helpful. Indeed, they turned out to be quite popular and got close to 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
+  </p>
 </details>
 
 <details>
   <summary>
     Mentorship in application document writing
   </summary>
-  
-  - Occasionally I support aspiring Jananese students in writing application documents such as motivation letters for grad school or scholarship.
-
+  Occasionally I support aspiring Jananese students in writing application documents such as motivation letters for grad school or scholarship.</li>
 </details>
 
 
