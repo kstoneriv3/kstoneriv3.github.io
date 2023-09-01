@@ -60,7 +60,7 @@ I provide mentorship and advice to aspiring Japanese students interested in STEM
     </summary>
     <p style="margin-left: 3%;"> 
       I wrote a series of "things I wish I knew when I was 18" type of posts. There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field. 
-      This underrepresentation is partly due to a scarcity of information available in Japanese, so posts like these could be helpful. 
+      This underrepresentation is partially due to a scarcity of information available in Japanese, so posts like these could be helpful. 
       Indeed, they turned out to be quite popular and got close to 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
     </p>
   </details>
