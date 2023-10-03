@@ -28,30 +28,67 @@ Mini research projects that did not end up publication so far.
 
 ## Softwares
 
-- confounding-robust-inference
-- pca-impute
-- imputax
 
-- PRs to OSS
-  - scikit-learn
-  - optuna
-  - scipy
+<div style="margin-left: 2%;"> 
+
+  <details>
+    <summary>
+      confounding-robust-inference (<a href="https://github.com/kstoneriv3/confounding-robust-inference">code</a>,
+      <a href="https://github.com/kstoneriv3/confounding-robust-inference">documentation</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+      Slightly over-engineered code for our paper <a href="https://github.com/kstoneriv3/confounding-robust-inference">A Convex Framework for Confounding Robust Inference</a>, from which I learned how to properly set up a python package, CI/CD, a test suite, and documentation.
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      pca-impute (<a href="https://github.com/kstoneriv3/pca-impute">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+      A simple but fast missing value imputation with iterative PCA (i.e. iterative SVD) with a scikit-learn style API.
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      imputax (<a href="https://github.com/kstoneriv3/imputax">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+      Bayesian missing value imputation with the probabilistic PCA and the factor model, implemented in Jax.
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      OSS contributions
+    </summary>
+    <p style="margin-left: 3%;"> 
+      <ul>
+        <li>scikit-learn
+          (A bug fix of kernel PCA, <a href="https://github.com/scikit-learn/scikit-learn/pull/19732">#19732</a>.)</li>
+        <li>Scipy(A bug fix for LatinHypercubes, <a href="https://github.com/scipy/scipy/pull/13654">#13654</a>.)</li>
+        <li>Optuna
+          (Add multivariate TPE sampler, <a href="https://github.com/optuna/optuna/pull/1767">#1767</a>.
+          Add QMC sampler, <a href="https://github.com/optuna/optuna/pull/2423">#2423</a>.
+          Support batched sampling with BoTorch <a href="https://github.com/optuna/optuna/pull/4591">#4591</a>.)</li>
+      </ul>
+    </p>
+  </details>
+
+</div>
+
 
 
 ## Reading club
 
 Slide decks I presented in previous reading clubs.
 
-- Temporal Parallelization of Bayesian Smoothers, August 2023 ([Slides](../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf))
-- Reinforcement Learning via Fenchel-Rockafellar Duality, January 2023 ([Slides](../assets/pdf/RL_via_FR_duality-20230126.pdf))
-- A brief review on over-smoothing in GNNs, May 2021 ([Slides](../assets/pdf/GNN_Oversmoothing-20210504.pdf))
-- Kernel Instrumental Variable Regression, May 2020 ([Slides](../assets/pdf/kernel_instrumental_variable_regression-20200515.pdf))
-
 <div style="margin-left: 2%;"> 
   
   <details>
     <summary>
-      "Temporal Parallelization of Bayesian Smoothers", presented on August 2023 (<a href="../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf">Slides</a>)
+      "Temporal Parallelization of Bayesian Smoothers", presented on August 2023 (<a href="../assets/pdf/Temporal_Parallelization_of_Bayesian_Smoothers-20230804.pdf">slides</a>)
     </summary>
     <p style="margin-left: 3%;"> 
       This paper improves the parallel complexity of Baysian filtering and smoothing from O(n) (of the traditional forward-backward algorithm) to O(log n), which is a quite striking result.
@@ -60,7 +97,7 @@ Slide decks I presented in previous reading clubs.
 
   <details>
     <summary>
-      "Reinforcement Learning via Fenchel-Rockafellar Duality", presented on January 2023 (<a href="../assets/pdf/RL_via_FR_duality-20230126.pdf">Slides</a>)
+      "Reinforcement Learning via Fenchel-Rockafellar Duality", presented on January 2023 (<a href="../assets/pdf/RL_via_FR_duality-20230126.pdf">slides</a>)
     </summary>
     <p style="margin-left: 3%;"> 
       A summary of the DICE (stationary DIstribution Correction Estimation) techniques in offline RL. The stationary distribution for a fix policy is known to become the solution of a linear operator equation, and they provide a sysmetatic recipe to solve this equation using convex duality.
@@ -69,7 +106,7 @@ Slide decks I presented in previous reading clubs.
 
   <details>
     <summary>
-      "Kernel Instrumental Variable Regression", presented on May 2020 (<a href="../assets/pdf/kernel_instrumental_variable_regression-20200515.pdf">Slides</a>)
+      "Kernel Instrumental Variable Regression", presented on May 2020 (<a href="../assets/pdf/kernel_instrumental_variable_regression-20200515.pdf">slides</a>)
     </summary>
     <p style="margin-left: 3%;"> 
       An extension of the classic linear instrumental variable regression with the kernel methods. One of the pioneering causal ML papers that "kernelized" the classic linear methods for causal inference. An interesting technical point is that their method involves learning a linear operator from a feature space of a kernel to a feature of another kernel, which is not very trivial but is still feasible analytically.
@@ -78,7 +115,7 @@ Slide decks I presented in previous reading clubs.
 
   <details>
     <summary>
-      "A brief review on over-smoothing in graph neural networks", presented on May 2021 (<a href="../assets/pdf/GNN_Oversmoothing-20210504.pdf">Slides</a>)
+      "A brief review on over-smoothing in graph neural networks", presented on May 2021 (<a href="../assets/pdf/GNN_Oversmoothing-20210504.pdf">slides</a>)
     </summary>
     <p style="margin-left: 3%;"> 
       The over-smoothing in graph neural networks (GNNs) is a phenomena where a GNN's performance degrades when the GNNs becomes too deep. I summarized the up-to-date theoretical insights and proposed solutions as of early 2021. In theory, the oversmoothing was attributed to the spectral decay due to the incremental application of the same message passing operator, analogous to the power iteration. Proposed solutions at the time were either residual skip connection or sparsification of the message passing, to reduce the spectral decay of the operator.
@@ -90,9 +127,9 @@ Slide decks I presented in previous reading clubs.
 </div>
 
 
-## Mentoring and advising
+## My two cents on career and academics
 
-I provide mentorship and advice to aspiring Japanese students interested in STEM education and careers abroad sometimes (though not very frequently).
+I sometimes provide mentorship/advice to aspiring students (mostly Japanese) interested in STEM education/careers abroad and I've written a few articles on these topics, which turned out to be quite popular.
 
 <div style="margin-left: 2%;"> 
   
@@ -103,16 +140,7 @@ I provide mentorship and advice to aspiring Japanese students interested in STEM
     <p style="margin-left: 3%;"> 
       I wrote a series of "things I wish I knew when I was 18" type of posts. There are significantly fewer Japanese compared to other groups (such as Chinese and Koreans) in the Western STEM field. 
       This underrepresentation is partially due to a scarcity of information available in Japanese, so posts like these could be helpful. 
-      Indeed, they turned out to be quite popular and got close to 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
-    </p>
-  </details>
-  
-  <details>
-    <summary>
-      Mentorship in application document writing
-    </summary>
-    <p style="margin-left: 3%;">
-      Occasionally I support aspiring Japanese students writing application documents such as motivation letters for grad school or scholarship.
+      Indeed, they attracted a considerable level of engagement and got nearly 100 stars on github ⭐ (but even more popular than any of my software 🥲)!
     </p>
   </details>
 
