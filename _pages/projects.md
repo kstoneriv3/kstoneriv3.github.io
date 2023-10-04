@@ -66,7 +66,7 @@ Mini research projects that did not end up publication so far.
     <p style="margin-left: 3%;"> 
       <ul>
         <li>scikit-learn
-          (A bug fix of kernel PCA, <a href="https://github.com/scikit-learn/scikit-learn/pull/19732">#19732</a>.)</li>
+          (A bug fix for kernel PCA, <a href="https://github.com/scikit-learn/scikit-learn/pull/19732">#19732</a>.)</li>
         <li>Scipy(A bug fix for LatinHypercubes, <a href="https://github.com/scipy/scipy/pull/13654">#13654</a>.)</li>
         <li>Optuna
           (Add multivariate TPE sampler, <a href="https://github.com/optuna/optuna/pull/1767">#1767</a>.
