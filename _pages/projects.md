@@ -15,30 +15,70 @@ This page is under construction...
 
 ## Publication
 
+<div style="margin-bottom: 5mm;"> 
+
 Please refer to the <a href="../publications">Publication</a> section.
 
-<br>
+</div>
 
 
 ## Mini-research projects
 
-Mini research projects that did not end up publication so far.
+Research projects that did not end up in publication but taught me some lessons.
 
-- Fake voice detection
-- Low-rank GP on discrete domain
-- Non-linear Debiasing of Sentence Embeddings with Kernel PCA ([code](https://github.com/kstoneriv3/debiasing-bert-by-kernel-pca), [report](https://github.com/kstoneriv3/debiasing-bert-by-kernel-pca/blob/main/final_report.pdf))
-  - with Vincent Bardenhagen
-- Can Higher-Order Monte Carlo Methods Help Reinforcemenet Learning? ([code](https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg), [report](https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf))
-  - Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: [Policy Learning and Evaluation with Randomized Quasi-Monte Carlo](https://arxiv.org/pdf/2202.07808.pdf).
-- MLQMC for neural SDEs
-- An SDE analysis of the sharpness-aware minimization
+<div style="margin-left: 2%; margin-bottom: 5mm;"> 
 
-<br>
+  <details>
+    <summary>
+      Non-linear Debiasing of Sentence Embeddings with Kernel PCA 
+      (<a href="https://github.com/kstoneriv3/debiasing-bert-by-kernel-pca/blob/main/final_report.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/debiasing-bert-by-kernel-pca">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+       Project with Vincent Bardenhagen
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      Can Higher-Order Monte Carlo Methods Help Reinforcemenet Learning?
+      (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
+    </p>
+  </details>
+  
+  <details>
+    <summary>
+      Fake voice detection
+      (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
+    </p>
+  </details>
+
+  <details>
+    <summary>
+      Low-rank GP on discrete domain
+      (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
+    </p>
+  </details>
+
+</div>
+
 
 
 ## Softwares
 
-<div style="margin-left: 2%;"> 
+<div style="margin-left: 2%; margin-bottom: 5mm;"> 
 
   <details>
     <summary>
@@ -87,14 +127,12 @@ Mini research projects that did not end up publication so far.
 
 </div>
 
-<br>
-
 
 ## Reading club
 
 Slide decks I presented in previous reading clubs.
 
-<div style="margin-left: 2%;"> 
+<div style="margin-left: 2%; margin-bottom: 5mm;"> 
   
   <details>
     <summary>
@@ -133,8 +171,6 @@ Slide decks I presented in previous reading clubs.
   </details>
 
 </div>
-
-<br>
 
 ## My two cents on career and academics
 
