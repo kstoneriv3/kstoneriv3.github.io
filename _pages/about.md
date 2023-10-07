@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am a machine learning engineer at G-Research in London. Previously, I obtained MSc in Statistics at ETH Zurich and BEng in Systems Innovation at the University of Tokyo.
 
-My passion lies in the field of machine learning, and I particularly enjoy creating (and improving) machine learning algorithms by leveraging the underlying mathematical structures of the problems. Especially, keywords that often get me excited include probabilistic modeling, decision making, reinforcement learning, meta-learning, sample efficiency, and uncertainty quantification.
+My passion lies in the field of machine learning, and I particularly enjoy creating (and improving) machine learning algorithms by leveraging the underlying mathematical structures of the problems. Especially, keywords that often get me excited include probabilistic modeling, decision making, reinforcement learning, sample efficiency, and uncertainty quantification.
 
 On my day off, I tend to go outside for running or playing tennis. From time to time, I also like revisit hobbies from my past, such as cycling, hiking, swimming, and bouldering.
