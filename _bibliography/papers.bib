@@ -1,7 +1,7 @@
 @article{goda2019multilevel,
   title={Multilevel Monte Carlo estimation of log marginal likelihood},
   author={Goda, Takashi and Ishikawa, Kei},
-  journal={arXiv preprint arXiv:1912.10636},
+  journal={Technical report arXiv:1912.10636},
   year={2019},
 }
 
@@ -38,7 +38,7 @@
 @article{ishikawa2023convex,
   title={A Convex Framework for Confounding Robust Inference},
   author={Ishikawa, Kei and He, Naio and Kanamori, Takafumi},
-  journal={arXiv preprint arXiv:2309.12450},
+  journal={Preprint arXiv:2309.12450},
   year={2023},
   abstract = {We study policy evaluation of offline contextual bandits subject to unobserved confounders. Sensitivity analysis methods are commonly used to estimate the policy value under the worst-case confounding over a given uncertainty set. However, existing work often resorts to some coarse relaxation of the uncertainty set for the sake of tractability, leading to overly conservative estimation of the policy value. In this paper, we propose a general estimator that provides a sharp lower bound of the policy value using convex programming. The generality of our estimator enables various extensions such as sensitivity analysis with f-divergence, model selection with cross validation and information criterion, and robust policy learning with the sharp lower bound. Furthermore, our estimation method can be reformulated as an empirical risk minimization problem thanks to the strong duality, which enables us to provide strong theoretical guarantees of the proposed estimator using techniques of the M-estimation.},
   archiveprefix = {arXiv},
@@ -51,7 +51,7 @@
 @article{ishikawa2023dmlmc,
   title={On the Parallel Complexity of Multilevel Monte Carlo in Stocahstic Gradient Descent},
   author={Ishikawa, Kei},
-  journal={arXiv preprint arXiv:2310.02402},
+  journal={Preprint arXiv:2310.02402},
   year={2023},
   abstract = {In the stochastic gradient descent (SGD) for sequential simulations such as the neural stochastic differential equations, the Multilevel Monte Carlo (MLMC) method is known to offer better theoretical computational complexity compared to the naive Monte Carlo approach. However, in practice, MLMC scales poorly on massively parallel computing platforms such as modern GPUs, because of its large parallel complexity which is equivalent to that of the naive Monte Carlo method. To cope with this issue, we propose the delayed MLMC gradient estimator that drastically reduces the parallel complexity of MLMC by recycling previously computed gradient components from earlier steps of SGD. The proposed estimator provably reduces the average parallel complexity per iteration at the cost of a slightly worse per-iteration convergence rate. In our numerical experiments, we use an example of deep hedging to demonstrate the superior parallel complexity of our method compared to the standard MLMC in SGD.},
   archiveprefix = {arXiv},
