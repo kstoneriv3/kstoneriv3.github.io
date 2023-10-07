@@ -10,8 +10,6 @@ horizontal: false
 ---
 <!-- display_categories: [work, fun] -->
 
-This page is under construction...
-
 
 ## Publication
 
