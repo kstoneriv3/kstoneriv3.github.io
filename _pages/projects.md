@@ -35,10 +35,27 @@ Research projects that did not end up in publication but taught me some lessons.
       <a href="https://github.com/kstoneriv3/debiasing-bert-by-kernel-pca">code</a>)
     </summary>
     <p style="margin-left: 3%;">
-       Project with Vincent Bardenhagen
+      A project that taught me the importance of not naively believing in whatever a paper claims, even if it is from famous universities and published in a top-tier conference.
+      While trying to extend a paper from EMNLP, we realized that its proposed method is infeasible in practice. 
+      It was confirmed by the authors that they intentionally skipped the experiments of the proposed method and replaced them with reasonable alternatives without any mention on the feasibility issue.
+      This is a project conducted with a classmate, where I was responsible for the theoretical analysis and implementation of the kernel PCA.
     </p>
   </details>
   
+  <details>
+    <summary>
+      Fake voice detection
+      (<a href="https://github.com/kstoneriv3/Fake-Voice-Detection/blob/master/DLproject_fake_voice_detection.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/Fake-Voice-Detection">code</a>)
+    </summary>
+    <p style="margin-left: 3%;">
+      This is a project from 2018 when the deepfake had much less recognition than it does nowadays.
+      I generated fake voice clips of former US president Barak Obama using Cyclic GAN and showed that a simple voice verification system using GMMs can be spoofed. 
+      Though the implementation is very minimal, it has more stars than any of my code repositories on GitHub.
+      Though I have a tendency to seek more and more technicality in my research, this made me realize less technical work that answers a timely question could be more valuable than highly technical work that merely extends the existing works.
+    </p>
+  </details>
+
   <details>
     <summary>
       Can Higher-Order Monte Carlo Methods Help Reinforcemenet Learning?
@@ -46,18 +63,9 @@ Research projects that did not end up in publication but taught me some lessons.
       <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
     </summary>
     <p style="margin-left: 3%;">
-       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
-    </p>
-  </details>
-  
-  <details>
-    <summary>
-      Fake voice detection
-      (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
-      <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
-    </summary>
-    <p style="margin-left: 3%;">
-       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
+       I learned the higher-order integration with quasi-Monte Carlo (QMC) method, and gained practical experience in implementing reinforcement learning (RL) algorithm. 
+       Though I failed to improve the sample efficiency of policy gradient with QMC, it gave me a better understanding of the difficultly in improving the sample efficiency in RL due to sparse reward. 
+       Later, I found the following paper that effectively applies QMC in RL, which gives a positive answer to the above research question: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>.
     </p>
   </details>
 
@@ -68,7 +76,8 @@ Research projects that did not end up in publication but taught me some lessons.
       <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
     </summary>
     <p style="margin-left: 3%;">
-       Unrelated to my work but this paper seems to be a more sensible way to use QMC in RL: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>)
+      From the theoretical analysis and implementation of low-rank Gaussian process, I gained a good understanding and intuition on matrix decompositions such as SVD and Cholesky decomposition, projection operator, and the kernel method.
+      This knowledge turned out to be quite useful in <a href="https://arxiv.org/abs/2302.13348">my recent publication</a>.
     </p>
   </details>
 
