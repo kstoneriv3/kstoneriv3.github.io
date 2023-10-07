@@ -12,6 +12,14 @@ horizontal: false
 
 This page is under construction...
 
+
+## Publication
+
+Please refer to the <a href="../publications">Publication</a> section.
+
+<br>
+
+
 ## Mini-research projects
 
 Mini research projects that did not end up publication so far.
@@ -25,9 +33,10 @@ Mini research projects that did not end up publication so far.
 - MLQMC for neural SDEs
 - An SDE analysis of the sharpness-aware minimization
 
+<br>
+
 
 ## Softwares
-
 
 <div style="margin-left: 2%;"> 
 
@@ -78,6 +87,7 @@ Mini research projects that did not end up publication so far.
 
 </div>
 
+<br>
 
 
 ## Reading club
@@ -122,10 +132,9 @@ Slide decks I presented in previous reading clubs.
     </p>
   </details>
 
-
-  
 </div>
 
+<br>
 
 ## My two cents on career and academics
 
