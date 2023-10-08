@@ -61,8 +61,8 @@ Research projects that did not end up in publication but taught me some lessons.
       <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
     </summary>
     <p style="margin-left: 3%;">
-       I learned the higher-order integration with quasi-Monte Carlo (QMC) method, and gained practical experience in implementing reinforcement learning (RL) algorithm. 
-       Though I failed to improve the sample efficiency of policy gradient with QMC, it gave me a better understanding of the difficultly in improving the sample efficiency in RL due to sparse reward. 
+       I tried to improve the sample efficiency of policy gradient estimator with quasi-Monte Carlo (QMC) method, which offers faster convergence than the naive Monte Carlo for a sufficiently regular integrand.
+       Though I failed to improve the sample efficiency, it gave me a better understanding of the sample inefficiency in RL due to sparse reward and higher-order integration with QMC. 
        Later, I found the following paper that effectively applies QMC in RL, which gives a positive answer to the above research question: <a href="https://arxiv.org/pdf/2202.07808.pdf">Policy Learning and Evaluation with Randomized Quasi-Monte Carlo</a>.
     </p>
   </details>
@@ -74,7 +74,7 @@ Research projects that did not end up in publication but taught me some lessons.
       <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
     </summary>
     <p style="margin-left: 3%;">
-      From the theoretical analysis and implementation of low-rank Gaussian process, I gained a good understanding and intuition on matrix decompositions such as SVD and Cholesky decomposition, projection operator, and the kernel method.
+      This project involved theoretical analysis and implementation of low-rank Gaussian processes, where I gained a good understanding and intuition on matrix decompositions such as SVD and Cholesky decomposition, projection operator, and the kernel method.
       This knowledge turned out to be quite useful in <a href="https://arxiv.org/abs/2302.13348">my recent publication</a>.
     </p>
   </details>
