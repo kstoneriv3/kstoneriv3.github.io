@@ -48,10 +48,17 @@
   selected = {true},
 }
 
+@inproceedings{
+anonymous2023on,
+title={On the Parallel Complexity of Multilevel Monte Carlo in Stocahstic Gradient Descent},
+author={Anonymous},
+year={2023},
+url={https://openreview.net/forum?id=AA0kBBerxw}
+}
 @article{ishikawa2023dmlmc,
   title={On the Parallel Complexity of Multilevel Monte Carlo in Stochastic Gradient Descent},
   author={Ishikawa, Kei},
-  journal={Preprint arXiv:2310.02402},
+  journal={OPT 2023: Optimization for Machine Learning (NeurIPS workshop)},
   year={2023},
   abstract = {In the stochastic gradient descent (SGD) for sequential simulations such as the neural stochastic differential equations, the Multilevel Monte Carlo (MLMC) method is known to offer better theoretical computational complexity compared to the naive Monte Carlo approach. However, in practice, MLMC scales poorly on massively parallel computing platforms such as modern GPUs, because of its large parallel complexity which is equivalent to that of the naive Monte Carlo method. To cope with this issue, we propose the delayed MLMC gradient estimator that drastically reduces the parallel complexity of MLMC by recycling previously computed gradient components from earlier steps of SGD. The proposed estimator provably reduces the average parallel complexity per iteration at the cost of a slightly worse per-iteration convergence rate. In our numerical experiments, we use an example of deep hedging to demonstrate the superior parallel complexity of our method compared to the standard MLMC in SGD.},
   archiveprefix = {arXiv},
