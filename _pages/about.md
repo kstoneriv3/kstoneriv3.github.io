@@ -20,4 +20,4 @@ Hi, I am a machine learning engineer at G-Research in London. Previously, I obta
 
 My passion lies in the field of machine learning, and I particularly enjoy creating (and improving) machine learning algorithms by leveraging the underlying structures of the problems for optimally extracting information from data. Especially, keywords that often get me excited include probabilistic modeling, reinforcement learning, data-driven decision making, and sample efficiency.
 
-On my days off, I enjoy heading outdoors for a run. While I once participated in marathon and triathlon races, I've transitioned to running as a hobby due to my busy schedule (or perhaps a bit of laziness). From time to time, I also revisit hobbies from my past, such as cycling, hiking, swimming, tennis, and bouldering.
+On my days off, I enjoy heading outdoors for a run. While I once participated in marathon and triathlon races, I've transitioned to running as a hobby due to my busy schedule. From time to time, I also revisit hobbies from my past, such as cycling, hiking, swimming, tennis, and bouldering.
