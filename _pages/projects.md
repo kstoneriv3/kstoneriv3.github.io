@@ -70,8 +70,8 @@ Research projects that did not end up in publication but taught me some lessons.
   <details>
     <summary>
       Low-rank GP on discrete domain
-      (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
-      <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
+      (<a href="https://github.com/kstoneriv3/dpp-nystrom-gp/blob/master/DPP_GP.pdf">report</a>,
+      <a href="https://github.com/kstoneriv3/dpp-nystrom-gp">code</a>)
     </summary>
     <p style="margin-left: 3%;">
       I conducted theoretical analysis and implementation of low-rank Gaussian processes, from which I gained a good understanding and intuition on matrix decompositions such as SVD and Cholesky decomposition, projection operator, and the kernel method.
