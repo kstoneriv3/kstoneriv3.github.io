@@ -56,7 +56,7 @@ Research projects that did not end up in publication but taught me some lessons.
 
   <details>
     <summary>
-      Can Higher-Order Monte Carlo Methods Help Reinforcemenet Learning?
+      Can Higher-Order Monte Carlo Methods Help Reinforcement Learning?
       (<a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg/blob/main/Can%20Higher-Order%20Monte%20Carlo%20Methods%20Help%20Reinforcemenet%20Learning%3F.pdf">report</a>,
       <a href="https://github.com/kstoneriv3/autonomous-learning-library-with-rrpg">code</a>)
     </summary>
