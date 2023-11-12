@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a machine learning engineer at G-Research in London. Previously, I obtained MSc in Statistics at ETH Zurich and BEng in Systems Innovation at the University of Tokyo.
+Hi, I am a machine learning engineer at G-Research in London and a master's student at Tokyo Institute of Technology. Previously, I obtained MSc in Statistics at ETH Zurich and BEng in Systems Innovation at the University of Tokyo.
 
 My passion lies in the field of machine learning, and I particularly enjoy creating (and improving) machine learning algorithms by leveraging the underlying structures of the problems for optimally extracting information from data. Especially, keywords that often get me excited include probabilistic modeling, reinforcement learning, data-driven decision making, and sample efficiency.
 
